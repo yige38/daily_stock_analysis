@@ -21,16 +21,7 @@ Analyze your watchlist daily -> generate a decision dashboard -> push to Telegra
 
 English | [简体中文](../README.md) | [繁體中文](README_CHT.md)
 
-</div>
 
-## 💖 Sponsors
-
-<div align="center">
-  <p align="center">
-    <a href="https://open.anspire.cn/?share_code=QFBC0FYC" target="_blank"><img src="assets/anspire.png" alt="Anspire Open all-in-one model and search service" width="300" height="141" style="width: 300px; height: 141px; object-fit: contain;"></a>
-    <a href="https://serpapi.com/baidu-search-api?utm_source=github_daily_stock_analysis" target="_blank"><img src="assets/serpapi_banner_en.png" alt="Easily scrape real-time financial news data from search engines - SerpApi" width="300" height="141" style="width: 300px; height: 141px; object-fit: contain;"></a>
-  </p>
-</div>
 
 ## 🖥️ Product Preview
 
