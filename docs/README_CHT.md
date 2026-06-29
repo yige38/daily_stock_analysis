@@ -21,16 +21,7 @@
 
 繁體中文 | [English](README_EN.md) | [简体中文](../README.md)
 
-</div>
 
-## 💖 贊助商 (Sponsors)
-
-<div align="center">
-  <p align="center">
-    <a href="https://open.anspire.cn/?share_code=QFBC0FYC" target="_blank"><img src="assets/anspire.png" alt="Anspire Open 一站式模型和搜尋服務" width="300" height="141" style="width: 300px; height: 141px; object-fit: contain;"></a>
-    <a href="https://serpapi.com/baidu-search-api?utm_source=github_daily_stock_analysis" target="_blank"><img src="assets/serpapi_banner_zh.png" alt="輕鬆抓取搜尋引擎上的即時金融新聞數據 - SerpApi" width="300" height="141" style="width: 300px; height: 141px; object-fit: contain;"></a>
-  </p>
-</div>
 
 ## 🖥️ 產品預覽
 
